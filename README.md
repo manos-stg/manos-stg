@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hi there! I'm [Your Name], a passionate programmer and enthusiastic learner. I'm excited to be a part of the GitHub community, where I can share my ideas, collaborate with others, and explore amazing projects.
+Hi there! I'm Manos Stg, a passionate programmer and enthusiastic learner. I'm excited to be a part of the GitHub community, where I can share my ideas, collaborate with others, and explore amazing projects.
 
 ## About Me
 
